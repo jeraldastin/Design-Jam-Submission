@@ -46,10 +46,10 @@ background-color: #d3d4e0;
     height: 400px;
 }
 .a1 {
-    background-image: url("../images/img1.jpg");
+    background-image: url("../images/img9.jpg");
 }
 .a2 {
-    background-image: url("../images/img2.jpg");
+    background-image: url("../images/img7.jpg");
 }
 .a3 {
     background-image: url("../images/img3.jpg");
@@ -108,11 +108,11 @@ h3 {
   color:white;
 }
 .homepage h2 {
-  font-size: 45px;
+  font-size: 32px;
   font-family: 'Caveat', cursive;
   font-weight: 400;
   margin: 0;
-  COLOR:white;
+  color:white;
 }
 .item-details h3 + p {
   font-style: italic;
