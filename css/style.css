@@ -198,7 +198,6 @@ h3 {
    .navbar-toggle {
        display: none;
     }
-    .logo:hover,
     .nav-links:hover {
         background-color: white;
         color:black;
