@@ -22,7 +22,7 @@ body {
     border-radius: 4px;
     display: inline-block;
 }
-.projects .btn:hover {
+.projects .btn:last-child:hover {
     background: #d3d4e0;
     color: rgb(32,32,32);
 }
